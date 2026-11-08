@@ -1,0 +1,11 @@
+numpy>=1.21.0
+opencv-python
+torch
+ultralytics
+PyYAML
+future
+dronekit
+pymavlink
+pyzbar
+pytest
+matplotlib

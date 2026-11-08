@@ -1,0 +1,12 @@
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+.python/
+
+# Local logs and generated captures
+system_log.txt
+Savaşan_İHA_Görevi/image/
+
+# Benchmark output can be regenerated with benchmark_simulation.py
+benchmark_results.png
